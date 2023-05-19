@@ -1,4 +1,4 @@
-# template-public-distribution-repo
+# Holy Mountain Shaker for Foundry VTT
 
 ## Where to Purchase Premium Content
 
